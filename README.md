@@ -1,0 +1,8 @@
+# curtains
+Curtains
+
+Mod adding coloured curtains, very lightweight
+
+by Jozet
+
+based at 'xdecor' curtain code
